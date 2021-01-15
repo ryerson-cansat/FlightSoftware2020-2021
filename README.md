@@ -1,2 +1,2 @@
 # FlightSoftware2020-2021
-Flight Software for Maple Seed and Container 
+Flight Software for 2021 Cansat competition 
